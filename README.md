@@ -58,6 +58,6 @@ Built with HTML5, CSS and JS
 
 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=K-re-creator
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TJ-dot-1&show_icons=true&theme=dark)
 
 🤝 Let’s Build Something That Matters
