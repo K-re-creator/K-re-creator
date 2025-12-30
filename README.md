@@ -1,12 +1,12 @@
-👋 Hi, I’m Morgan Mwashi
+# 👋 Hi, I’m Morgan Mwashi
 
-Modern Web Developer | MERN Stack
-
-
+## Modern Web Developer | MERN Stack
 
 
 
-🚀 About Me
+
+
+# 🚀 About Me
 
 🔭 Currently building real-world web applications like McRash Deliveries
 
@@ -22,7 +22,7 @@ Modern Web Developer | MERN Stack
 
 
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Frontend
 
@@ -34,7 +34,7 @@ Backend
 
 
 
-📌 Featured Project
+# 📌 Featured Project
 
 🚚 McRash Deliveries
 
@@ -51,7 +51,7 @@ Clean UI with responsive design
 Built with MERN stack
 
 
-👉 Repo link: https://github.com/your-username/mcrash-deliveries
+👉 Repo link: https://github.com/K-re-creator/mcrash-deliveries.git
 
 
 
