@@ -18,7 +18,7 @@ Modern Web Developer | MERN Stack | CyberSecurity focus | Devsecops focus
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
 
-
+profile views ![Profile Views](https://komarev.com/ghpvc/?username=K-re-creator&color=blue)
 
 # 🛠 Tech Stack
 
@@ -36,6 +36,10 @@ Modern Web Developer | MERN Stack | CyberSecurity focus | Devsecops focus
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-re-creator&layout=compact&theme=dark)
 
 # 📌 Featured Project
 
@@ -58,6 +62,6 @@ Built with HTML5, CSS and JS
 
 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TJ-dot-1&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-re-creator&show_icons=true&theme=dark)
 
 🤝 Let’s Build Something That Matters
