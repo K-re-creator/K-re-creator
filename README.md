@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Morgan Mwashi
 
-## Modern Web Developer | MERN Stack
+### Modern Web Developer | MERN Stack
 
 
 
@@ -16,7 +16,7 @@
 
 💬 Ask me about React, Node.js, Express, MongoDB, JavaScript
 
-📫 Reach me at: your-email@gmail.com
+📫 Reach me at: koziresy11@gmail.com
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
 
