@@ -6,17 +6,17 @@ Modern Web Developer | MERN Stack | CyberSecurity focus | Devsecops focus
 
 # 🚀 About Me
 
-🔭 Currently building real-world web applications like McRash Deliveries
+🔥 I build stuff that matters. McRash Deliveries? Done. But I’m just getting started.
 
-🌱 Learning advanced MERN stack patterns and best practices
+🌱 I’m all about learning full-stack dev, mastering MERN, and turning ideas into real projects.
 
-👯 Open to collaborating on meaningful full-stack projects
+👀 I love coding, designing systems, and seeing them actually work.
 
-💬 Ask me about React, Node.js, Express, MongoDB, JavaScript
+💭 My goal: build tech that makes life easier, from web apps to full digital solutions.
 
-📫 Reach me at: koziresy11@gmail.com
+❤️ I’m also chasing self-growth, freedom, and the kind of success that lets me live on my own terms.
 
-⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
+📫 Hit me up at koziresy11@gmail.com if you want to collab or talk tech.
 
 profile views ![Profile Views](https://komarev.com/ghpvc/?username=K-re-creator&color=blue)
 
