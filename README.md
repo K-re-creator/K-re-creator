@@ -47,11 +47,9 @@ Features
 
 User and rider workflows
 
-Order tracking
-
 Clean UI with responsive design
 
-Built with MERN stack
+Built with HTML5, CSS and JS
 
 
 👉 Repo link: https://github.com/K-re-creator/mcrash-deliveries.git
@@ -60,8 +58,6 @@ Built with MERN stack
 
 📊 GitHub Stats
 
-
-
-
+https://github-readme-stats.vercel.app/api?username=K-re-creator
 
 🤝 Let’s Build Something That Matters
