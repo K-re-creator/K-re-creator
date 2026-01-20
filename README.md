@@ -56,7 +56,7 @@ Clean UI with responsive design
 Built with HTML5, CSS and JS
 
 
-👉 Repo link: https://github.com/K-re-creator/mcrash-deliveries.git
+👉 Repo link: mcrash-deliveries.netlify.app
 
 
 
