@@ -1,67 +1,192 @@
-# 👋 Hi, I’m Morgan Mwashi
+# 👋 Hi, I'm Morgan Mwashi
 
-Modern Web Developer | MERN Stack | CyberSecurity focus | Devsecops focus
+### Information Technology Student | Cybersecurity & Networking | DevSecOps Focus
 
+I'm an Information Technology student building practical skills across *networking, cybersecurity, systems, and secure software practices*.
 
+My career direction is:
 
-# 🚀 About Me
+*Networking → Cybersecurity → DevSecOps*
 
-🔥 I build stuff that matters. McRash Deliveries? Done. But I’m just getting started.
+I'm interested in understanding how systems communicate, how networks and applications can be secured, how attacks happen, and how security can be integrated into development and deployment workflows.
 
-🌱 I’m all about learning full-stack dev, mastering MERN, and turning ideas into real projects.
+I also have experience with web development and databases, which I use as supporting skills for building and understanding secure systems.
 
-👀 I love coding, designing systems, and seeing them actually work.
+---
 
-💭 My goal: build tech that makes life easier, from web apps to full digital solutions.
+## 🎯 What I'm Focused On
 
-❤️ I’m also chasing self-growth, freedom, and the kind of success that lets me live on my own terms.
+- 🌐 *Networking*  
+  Network administration, architecture, troubleshooting, protocols and Cisco networking
 
-📫 Hit me up at koziresy11@gmail.com if you want to collab or talk tech.
+- 🛡️ *Cybersecurity*  
+  Network security, web security, vulnerability assessment, ethical hacking and defensive security
 
-profile views ![Profile Views](https://komarev.com/ghpvc/?username=K-re-creator&color=blue)
+- ⚙️ *DevSecOps*  
+  CI/CD, security automation, secure development practices and integrating security into development workflows
 
-# 🛠 Tech Stack
+- 🐧 *Systems & Linux*  
+  Linux administration, command line tools and security-focused environments
 
-### Frontend
+- 💻 *Software & Web Technologies*  
+  Understanding applications and databases from a security perspective
 
-![React](https://img.shields.io/badge/React-black?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-black?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss)
+---
 
-### Backend
+## 🧰 Technical Skills
 
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+### 🌐 Networking
 
-### Top Languages
+TCP/IP, DNS, DHCP, HTTP/HTTPS, Routing, Switching, Subnetting, VLANs, ACLs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-re-creator&layout=compact&theme=dark)
+### 🛡️ Cybersecurity
 
-# 📌 Featured Project
+Network Security, Web Security, OWASP Security Testing, Vulnerability Analysis, Linux Security
 
-🚚 McRash Deliveries
+### ⚙️ DevSecOps
 
-A delivery management web app focused on speed, clarity, and usability.
+Git, GitHub, GitHub Actions, CI/CD, Security Scanning, Automation
 
-Features
+### 🐧 Systems
 
-User and rider workflows
+Linux, Windows, WSL
 
-Clean UI with responsive design
+### 💻 Development
 
-Built with HTML5, CSS and JS
+JavaScript, PHP, HTML5, CSS3, React, Node.js
 
+### 🗄️ Databases
 
-👉 Repo link: mcrash-deliveries.netlify.app
+MySQL, MongoDB, SQL
 
+### 🔧 Tools
 
+Cisco Packet Tracer, Git, GitHub, VS Code
 
-📊 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-re-creator&show_icons=true&theme=dark)
+## 🚀 Featured Project
 
-🤝 Let’s Build Something That Matters
+### 🚚 McRash Deliveries
+
+A delivery management web application built to manage interactions between customers and riders through a responsive web interface.
+
+*Focus:* Practical application development, user workflows, responsive design and database-driven functionality.
+
+*Technology:* HTML5, CSS3, JavaScript
+
+🔗 [Live Demo](https://mcrash-deliveries.netlify.app/)
+
+> More security, networking and DevSecOps projects are currently being developed.
+
+---
+
+## 🧪 Cybersecurity & Networking Labs
+
+I'm building hands-on experience through practical labs and projects covering:
+
+- Network configuration and troubleshooting
+- Cisco networking simulations
+- Linux administration
+- Network security
+- Web application security
+- Vulnerability assessment
+- Capture The Flag challenges
+- Security testing
+- CI/CD security automation
+
+More projects and write-ups will be added as I progress.
+
+---
+
+## 📚 Currently Learning
+
+- CCNA fundamentals
+- Network security
+- Linux administration
+- Web application security
+- Ethical hacking
+- Security monitoring
+- GitHub Actions and CI/CD
+- DevSecOps practices
+- Secure software development
+
+---
+
+## 📊 GitHub Stats
+
+![Morgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-re-creator&show_icons=true&hide_border=true&rank_icon=github)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-re-creator&layout=compact&hide_border=true)
+
+---
+
+## 📈 GitHub Activity
+
+I use GitHub to document what I'm learning, build practical projects, experiment with technologies and gradually develop *production-oriented engineering practices*.
+
+As my projects mature, repositories will include:
+
+- 🏗️ Architecture diagrams
+- 📚 Documentation
+- 🧪 Testing
+- 🛡️ Security considerations
+- ⚙️ CI/CD workflows
+- 🔍 Automated security checks
+- 📝 Technical write-ups
+
+---
+
+## 📝 Technical Writing
+
+I'm also documenting what I learn through technical writing, particularly around *cybersecurity, networking and technology*.
+
+📰 *Medium:* [My Medium](https://medium.com/@koziresy11)
+
+Topics will include:
+
+- Practical cybersecurity concepts
+- Networking
+- Security labs
+- Projects and experiments
+- Lessons learned
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with people working in:
+
+*Cybersecurity • Networking • DevSecOps • IT Infrastructure • Information Security*
+
+📧 *Email:* koziresy11@gmail.com
+
+💼 *LinkedIn:* [My LinkedIn](https://www.linkedin.com/in/morgan-mwashi-14b1a430b/?isSelfProfile=true)
+
+🌐 *Portfolio:* [My Portfolio](https://mmwashifolio.netlify.app/)
+
+---
+
+### 🐺 Build. Break. Understand. Secure.
+
+> Learning technology is one thing. Understanding how systems work, how they fail, and how to secure them is the goal.
+
+---
+
+## 🧭 My Career Direction
+
+I'm building toward roles involving *Network Security, Cybersecurity, Security Operations and DevSecOps, while continuing to strengthen my understanding of **systems, infrastructure and secure technology*.
+
+```text
+Information Technology
+        │
+        ▼
+   Networking
+        │
+        ▼
+  Cybersecurity
+        │
+        ▼
+    DevSecOps
