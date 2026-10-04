@@ -167,6 +167,8 @@ I'm open to connecting with people working in:
 
 🌐 *Portfolio:* [My Portfolio](https://mmwashifolio.netlify.app/)
 
+ *profile views:* ![Profile Views](https://komarev.com/ghpvc/?username=K-re-creator&color=blue)
+
 ---
 
 ### 🐺 Build. Break. Understand. Secure.
